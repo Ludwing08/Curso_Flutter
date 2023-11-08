@@ -8,9 +8,9 @@ Este proyecto es parte de mi aprendizaje en el desarrollo de aplicaciones móvil
 
 ## Contenido
 
-- **Proyectos:** En la carpeta `proyectos`, encontrará las aplicaciones que he desarrollado como parte de las tareas y proyectos del curso.
+- **Proyectos:** En el `repositorio`, encontrará las aplicaciones que he desarrollado como parte de las tareas y proyectos del curso.
 
-- **Certificado de Finalización:** He adjuntado mi certificado de finalización del curso en el archivo `certificado.pdf`.
+- **Certificado de Finalización:** He adjuntado mi certificado de finalización del curso en el archivo `certificado del curso.pdf`.
 
 ## Recursos
 
